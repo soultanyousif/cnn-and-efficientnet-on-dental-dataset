@@ -1,5 +1,7 @@
 # cnn-and-efficientnet-on-dental-dataset
 https://www.kaggle.com/code/soultanyousif/cnn-and-efficientnet-on-dental-dataset
+
+
 This report analyzes the performance of Deep Learning models on the Tooth dataset for classifying dental conditions. Two architectures were evaluated: a Custom CNN and a Pretrained EfficientNetB0. The study demonstrates that Transfer Learning (EfficientNetB0) significantly outperforms the custom architecture, achieving a test accuracy of 97.76% compared to 93.80% for the CNN.
 ## Dataset Overview
 - **Source**: Tooth dataset ([/kaggle/input/teeth-dataset/Tooth dataset](https://www.kaggle.com/datasets/rajapriyanshu/teeth-dataset))
